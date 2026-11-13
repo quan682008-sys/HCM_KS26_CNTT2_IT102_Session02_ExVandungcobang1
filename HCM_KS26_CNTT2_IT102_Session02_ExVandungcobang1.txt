@@ -1,0 +1,7 @@
+﻿Bước 1: Phân tích lỗi
+Có 3 phần không cần thiết trong câu trả lời của AI:
+1.Lời chào: Ví dụ "Xin chào, tôi sẽ giúp bạn giải thích..."
+2.Giải thích dài dòng: Nói lan man, lặp lại những nội dung không quan trọng.
+3.Lời kết: Ví dụ "Hy vọng câu trả lời hữu ích, nếu cần hãy hỏi thêm..."
+Bước 2: Viết Prompt tối ưu
+"Hãy giải thích ngắn gọn 3 nội dung CREATE, Few-shot và ép định dạng JSON/Table. Trình bày bằng gạch đầu dòng, mỗi nội dung tối đa 2 câu, dễ hiểu cho sinh viên năm nhất. Không viết lời chào, không dẫn dắt dài dòng, không lặp ý và không thêm lời kết. Chỉ đưa ra đúng nội dung được yêu cầu."
